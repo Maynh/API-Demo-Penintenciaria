@@ -4,10 +4,10 @@
 Este proyecto fue desarrollado en un plazo intensivo de **4 días** como parte de una **prueba técnica real** para la postulación al cargo de **Técnica en Programación** en el Servicio Penitenciario.
 
 🔹 Fue diseñado exclusivamente como **demo funcional**, con el objetivo de evaluar mis habilidades como desarrolladora backend.  
-🔹 Durante la evaluación técnica, obtuve una de las **mejores calificaciones técnicas entre 15 postulantes preseleccionados para 6 cupos**.  
+🔹 Durante la evaluación técnica, **obtuve una de las mejores calificaciones entre los postulantes seleccionados para la etapa final (15 preseleccionados para 6 cupos).**
 🔹 El proyecto se presenta ahora como parte de mi **portfolio profesional** para roles backend, desarrollo de APIs, soporte técnico y análisis de datos.
 
-![Banner del Proyecto]<img width="1536" height="1024" alt="img apidemo" src="https://github.com/user-attachments/assets/06552b79-4b3c-4b40-8630-064ab198e066" />
+<img width="250" height="250" alt="img apidemo" src="https://github.com/user-attachments/assets/06552b79-4b3c-4b40-8630-064ab198e066" />
 
 📌 *Desarrollado por: Mayra Medina (Técnica en Programación)*  
 📌 *Colaboración: construído con asistencia estratégica de IA para optimizar tiempo y documentación.*
@@ -73,6 +73,19 @@ Este proyecto me permitió demostrar:
 ✔ Adaptabilidad para desarrollar bajo presión y en tiempos limitados
 
 ---
+
+📩 *¿Interesado en ver el funcionamiento real vistita mi portfolio:
+- Portfolio: [Dev May](https://devmay.netlify.app/)
+  
+O
+
+¿conversar sobre mi experiencia? Escríbeme:
+- LinkedIn: [Mayra Medina](https://www.linkedin.com/in/mayra-medina-294893229/)
+
+---
+
+
+
 
 
 
