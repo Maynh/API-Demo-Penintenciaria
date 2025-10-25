@@ -2,12 +2,14 @@
 # 📚 Sistema Penitenciario API – Proyecto Técnico (Demo Profesional)
 
 Este proyecto fue desarrollado en un plazo intensivo de **4 días** como parte de una **prueba técnica real** para la postulación al cargo de **Técnica en Programación** en el Servicio Penitenciario.
+<p align="center">
+  <img width="350" height="350" alt="img apidemo" src="https://github.com/user-attachments/assets/06552b79-4b3c-4b40-8630-064ab198e066" />
+</p>
 
 🔹 Fue diseñado exclusivamente como **demo funcional**, con el objetivo de evaluar mis habilidades como desarrolladora backend.  
 🔹 Durante la evaluación técnica, **obtuve una de las mejores calificaciones entre los postulantes seleccionados para la etapa final (15 preseleccionados para 6 cupos).**
 🔹 El proyecto se presenta ahora como parte de mi **portfolio profesional** para roles backend, desarrollo de APIs, soporte técnico y análisis de datos.
 
-<img align="center" width="350" height="350" alt="img apidemo" src="https://github.com/user-attachments/assets/06552b79-4b3c-4b40-8630-064ab198e066" />
 
 📌 *Desarrollado por: Mayra Medina (Técnica en Programación)*  
 📌 *Colaboración: construído con asistencia estratégica de IA para optimizar tiempo y documentación.*
