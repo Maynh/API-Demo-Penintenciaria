@@ -7,7 +7,7 @@ Este proyecto fue desarrollado en un plazo intensivo de **4 días** como parte d
 </p>
 
 🔹 Fue diseñado exclusivamente como **demo funcional**, con el objetivo de evaluar mis habilidades como desarrolladora backend.  
-🔹 Durante la evaluación técnica, **obtuve una de las mejores calificaciones entre los postulantes seleccionados para la etapa final (15 preseleccionados para 6 cupos).**
+🔹 Durante la evaluación técnica, **obtuve una de las mejores calificaciones entre los postulantes seleccionados para la etapa final (15 preseleccionados para 6 cupos)**.
 🔹 El proyecto se presenta ahora como parte de mi **portfolio profesional** para roles backend, desarrollo de APIs, soporte técnico y análisis de datos.
 
 
